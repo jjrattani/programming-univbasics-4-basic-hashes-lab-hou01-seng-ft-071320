@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash
-
+  grades = {name: "linda"}
+grades
 end
 
 def pioneer
